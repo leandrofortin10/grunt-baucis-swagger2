@@ -1,7 +1,7 @@
 {
   "name": "@leandrofortin10/grunt-baucis-swagger2",
   "description": "The best Grunt plugin ever.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://gitlab.com/exo-dev/grunt-baucis-swagger2",
   "author": {
     "name": "Agustin Croce",
